@@ -5,3 +5,4 @@ ketchup
 milk
 beer
 git manual
+wine
